@@ -1,0 +1,17 @@
+# Requirements for Google Colab
+# Install with: pip install -r requirements.txt
+
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+tqdm
+pillow
+kagglehub
+grad-cam
+
